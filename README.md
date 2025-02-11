@@ -2,7 +2,7 @@
 
 
 <img src="![Screenshot 2025-02-11 204756](https://github.com/user-attachments/assets/7c60cd39-cff9-4357-aebb-7947b97c7dc2)
-" alt="Dashboard Preview" width="800">
+" alt="Dashboard Preview" width="1000">
 
 
 📌 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰
