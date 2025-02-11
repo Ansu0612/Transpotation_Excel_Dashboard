@@ -1,7 +1,6 @@
 🚍 𝐏𝐮𝐛𝐥𝐢𝐜 𝐓𝐫𝐚𝐧𝐬𝐩𝐨𝐫𝐭 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 (𝐄𝐱𝐜𝐞𝐥)
 
-
-<img src="[![Screenshot 2025-02-11 204756](https://github.com/user-attachments/assets/7c60cd39-cff9-4357-aebb-7947b97c7dc2)](https://github.com/Ansu0612/Transpotation_Excel_Dashboard/blob/main/Screenshot%202025-02-11%20204756.png)" alt="Dashboard Preview" width="800">
+<img src="https://raw.githubusercontent.com/Ansu0612/Transpotation_Excel_Dashboard/main/Screenshot%202025-02-11%20204756.png" alt="Dashboard Preview" width="800">
 
 
 📌 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰
